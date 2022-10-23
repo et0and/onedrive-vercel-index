@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'home',
+      name: 'Home',
       link: 'https://tom.so',
     },
   ],
